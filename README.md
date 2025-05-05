@@ -85,6 +85,10 @@ module traffic_light_controller (
     end
 endmodule
 
+OUPUT:
+![image](https://github.com/user-attachments/assets/aa028903-8640-47c9-8957-86b53e1b0053)
+
+
 Testbench for Traffic Light Controller
 
 // traffic_light_controller_tb.v
